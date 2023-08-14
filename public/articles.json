@@ -1,0 +1,25 @@
+{
+    "articles": [
+        {
+            "id": 0,
+            "title": "Max limit 45 characters!",
+            "author": "anonymous",
+            "coverImageSrc": "https://i0.wp.com/www.flutterbeads.com/wp-content/uploads/2022/01/add-image-in-flutter-hero.png?fit=2850%2C1801&ssl=1",
+            "content": "<div class={classes.image}><img src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg' alt='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg'/></div><div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniettempore voluptatem a, dolor officiis sint. Voluptatum, blanditiis<b>fugiat sit reprehenderit totam excepturi aliquid labore veniam</b>possimus at minus nisi ipsum.</div><div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dictadeleniti nihil reprehenderit et quas veniam quaerat, voluptasaliquam odit sed ut tempora, suscipit, officiis dolorem illumaspernatur maxime animi praesentium?</div>" 
+        },
+        {
+            "id": 1,
+            "title": "Max limit 45 characters twice!",
+            "author": "anonymous",
+            "coverImageSrc": "https://i0.wp.com/www.flutterbeads.com/wp-content/uploads/2022/01/add-image-in-flutter-hero.png?fit=2850%2C1801&ssl=1",
+            "content": "<div class={classes.image}><img src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg' alt='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg'/></div><div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniettempore voluptatem a, dolor officiis sint. Voluptatum, blanditiis<b>fugiat sit reprehenderit totam excepturi aliquid labore veniam</b>possimus at minus nisi ipsum.</div><div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dictadeleniti nihil reprehenderit et quas veniam quaerat, voluptasaliquam odit sed ut tempora, suscipit, officiis dolorem illumaspernatur maxime animi praesentium?</div>" 
+        },
+        {
+            "id": 2,
+            "title": "Max limit 45 characters thrice!",
+            "author": "anonymous",
+            "coverImageSrc": "https://i0.wp.com/www.flutterbeads.com/wp-content/uploads/2022/01/add-image-in-flutter-hero.png?fit=2850%2C1801&ssl=1",
+            "content": "<div class={classes.image}><img src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg' alt='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg'/></div><div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniettempore voluptatem a, dolor officiis sint. Voluptatum, blanditiis<b>fugiat sit reprehenderit totam excepturi aliquid labore veniam</b>possimus at minus nisi ipsum.</div><div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dictadeleniti nihil reprehenderit et quas veniam quaerat, voluptasaliquam odit sed ut tempora, suscipit, officiis dolorem illumaspernatur maxime animi praesentium?</div>" 
+        }
+    ]
+}

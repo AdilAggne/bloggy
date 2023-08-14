@@ -1,0 +1,19 @@
+.pagination {
+  display: flex;
+  gap: 1%;
+  align-items: center;
+  overflow-x: scroll;
+}
+
+.page {
+  padding: 0.5rem 0.8rem;
+  border-radius: 50%;
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+}
+
+.active {
+  color: black;
+  background-color: white;
+}

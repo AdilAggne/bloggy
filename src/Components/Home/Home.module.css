@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 98vw;
+  background-color: black;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.newArticleBtn {
+  width: 50px;
+  height: 50px;
+  color: black;
+  cursor: pointer;
+  font-size: 2.4rem;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.articles {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+.buttons {
+  width: 90vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pagination {
+  width: 30%;
+}
+
+.serverMsg {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10%;
+  color: red;
+  background-color: yellow;
+}
+
+.alert {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  background-color: red;
+  color: white;
+}
+
+.closeBtn {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.closeBtn:hover {
+  color: skyblue;
+}
